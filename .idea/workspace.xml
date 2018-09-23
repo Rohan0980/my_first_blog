@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec0a9756-a936-4577-a6b4-b9d13c450deb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
-    </list>
+    <list default="true" id="ec0a9756-a936-4577-a6b4-b9d13c450deb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,12 +290,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="984" height="1055" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2112383" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2112383" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3189189" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3189189" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32901832" />
       <window_info anchor="bottom" id="Message" order="3" />
